@@ -6,10 +6,10 @@ You can choose the download URL is Mega or Google Drive
 
 ## Usage
 
-1.Unzip the file
-2.Open command line 
-2.cd to the folder where your unzip.
-3.type "python eynySoftwareCrawler.py" in command line 
+1.Unzip the file<br>
+2.Open command line<br>
+2.cd to the folder where your unzip.<br>
+3.type "python eynySoftwareCrawler.py" in command line<br> 
 4.Get your stuff !!!!
 
 ## About the code
