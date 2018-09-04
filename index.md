@@ -2,7 +2,7 @@
 
 This is a crawler which can crawl article title and URL  from eyny
 
-You can choose the download URL is Mega or Google Drive 
+You can choose the download source is from Mega or Google Drive 
 
 ## Usage
 
